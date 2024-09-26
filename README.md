@@ -1,6 +1,3 @@
 ## Hi there 👋
 
-<!--
-**
--- _m_
--->
+Im a lua (not luau) developer
